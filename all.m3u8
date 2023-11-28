@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV-1 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 group-title="央视频道" ,CCTV-2 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-3综艺 (1080p)
+http://183.196.25.171:808/hls/75/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4 (1080p)
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5 (1080p)
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+ (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-7 (1080p)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-9 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-11戏曲 (1080p)
+http://183.196.25.171:808/hls/11/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-12社会与法制 (1080p)
+http://183.196.25.171:808/hls/12/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14 (1080p)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-17农业农村 (1080p)
+http://183.196.25.171:808/hls/93/index.m3u8
+#EXTINF:-1 group-title="STRIPCHAT",-Chu-chu
+https://b-hls-09.doppiocdn.com/hls/135551486/135551486.m3u8?playlistType=lowLatency
+#EXTINF:-1 group-title="STRIPCHAT",cecilia0903
+https://b-hls-16.doppiocdn.com/hls/130468819/130468819.m3u8?playlistType=lowLatency
+#EXTINF:-1 group-title="STRIPCHAT",Kaixin-Baby
+https://b-hls-08.doppiocdn.com/hls/99704428/99704428.m3u8?playlistType=lowLatency
+#EXTINF:-1 group-title="STRIPCHAT",Sunny-II
+https://b-hls-12.doppiocdn.com/hls/129497402/129497402.m3u8?playlistType=lowLatency
+#EXTINF:-1 group-title="STRIPCHAT",CN-Selme001
+https://b-hls-22.doppiocdn.com/hls/107866863/107866863.m3u8?playlistType=lowLatency
+#EXTINF:-1 group-title="STRIPCHAT",sm-Yingzi
+https://b-hls-23.doppiocdn.com/hls/107261554/107261554.m3u8?playlistType=lowLatency
