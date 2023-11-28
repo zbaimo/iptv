@@ -1,4 +1,5 @@
 #EXTM3U
+#CN
 #EXTINF:-1 group-title="央视频道",CCTV-1 (1080p)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 group-title="央视频道" ,CCTV-2 (1080p)
@@ -27,6 +28,7 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/inde
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17农业农村 (1080p)
 http://183.196.25.171:808/hls/93/index.m3u8
+#STRIPCHAT
 #EXTINF:-1 group-title="STRIPCHAT",-Chu-chu
 https://b-hls-09.doppiocdn.com/hls/135551486/135551486.m3u8?playlistType=lowLatency
 #EXTINF:-1 group-title="STRIPCHAT",cecilia0903
@@ -39,6 +41,7 @@ https://b-hls-12.doppiocdn.com/hls/129497402/129497402.m3u8?playlistType=lowLate
 https://b-hls-22.doppiocdn.com/hls/107866863/107866863.m3u8?playlistType=lowLatency
 #EXTINF:-1 group-title="STRIPCHAT",sm-Yingzi
 https://b-hls-23.doppiocdn.com/hls/107261554/107261554.m3u8?playlistType=lowLatency
+#Twitch
 #EXTINF:-1 group-title="Twitch",애순이
 https://usher.ttvnw.net/api/channel/hls/aesoon_96.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=119.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=6411275&platform=web&play_session_id=f6af426433015e9f27766a7f518ca034&player_backend=mediaplayer&player_version=1.23.0&playlist_include_framerate=true&reassignments_supported=true&sig=6d21aed8a094bfe8365a24293921cb52166396f5&supported_codecs=h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22aesoon_96%22%2C%22channel_id%22%3A753215420%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22bJ0FIyjV9pUlkrWd1hnnLj1RU3MqGKE3%22%2C%22expires%22%3A1701171320%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3A793522475%2C%22user_ip%22%3A%2247.242.48.92%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 #EXTINF:-1 group-title="Twitch",수련수련
@@ -47,3 +50,6 @@ https://video-weaver.hkg06.hls.ttvnw.net/v1/playlist/Cs4FWMQ6IqIAP_d3e0nLjkaGFI5
 https://video-weaver.hkg06.hls.ttvnw.net/v1/playlist/CtQFUwd0pTWNvc8W1HXmmXF9T2jGAanKADtdQ5_SnmPiCbtPA8BcMeQC48D_jzUVYNtW3fQEKzWoJ3GaoNBEFij6D8T_IyjDw49zz9AhQCA-ZiM_KsrQ3JeK3in4W2nv66eCzJp5KXA4vfTTascHtSz7pwn4qA0E3Co59PYdbp-j2uU9062dMGxW-3ajhPIjLR_twIjfqY38UMUfBjce04vulyTEsB__vNy4UXbnu21ESlP3puX-QM1Gzyi8_RyVa1emRm9rpOQQtzh2My0TuDkBdmA6KbFZka3ylYKfA2Q7b8e20lArqqcpUwvvxAR_0vXCqFY4ai5SkO5TFD6HqOFiXCtKmFUzDrrlEgF86G3jVGYlJ3bZnJKy3PYdQdXdZJ4gt8XarPiMo4_B20mSeEJMgpw64TBFomx0FItipAGCT3ueToVR7mkke_vUroe_S93IEur4ZG1CxoBbsDvwUbOJHPysk-wyIOg4ijwghFHx79R5XZPjHtzGl4xsmrvoWBVdqzD9418XSoJ3IIsuLBuS4u4EGl6b-NTr1LCk8vjFCCTcxXN4BcW3G1xaUQnR0LFBNPmcXXFWC6vb6EUBRi3_aqOc193c5QUAWOetxEkrzWj7B1kealCzT5y9ZvqiVEU5c_0daae5dGrS2gsAdz7DsCOarPvRNNS4t0Zx7Z_3Sa-vrWOjG15K3PiIyxGIpb_tQfCyO4XbaD5h2u2lSGRpnEZWGpToGbWZDpD5gUg8v7Lmkv4rZSxS-mha2X9-77zQcOxpgRWTUwwEzb0q7aIOydaDnPzm_k46kBKDvEnEJ_Oe8cLyxvYi3hCvnfyhGiU21jIS7Buf17ImHz8K02ZsjJ5ScSc0K3itHkbTh9A6z4th4IzEO-AdGYw_6dHZCAbiueAfI8Nmi4oNsMLyVDvYqGG48rH71uipjqvK684RbDsHa35z3Yl7i0Jn-rbiLXVjuMH1rxoMQfPu9TJvAGLtzMAsIAEqCXVzLXdlc3QtMjCNCA.m3u8
 #EXTINF:-1 group-title="Twitch",한갱
 https://video-weaver.hkg06.hls.ttvnw.net/v1/playlist/CtIFJjEetmj0FBNFHO1-qOfsQLiQf4X1miFAawWdXnwFDmOKPm_KecVuGeznksjAZJ_tuh49H7gG9z9kiqNFflQxrJyf9FPmqCOzMo_Aiu15FCU5tsuLdDb1hl085y2HVd4o5-cv7NBfH-QfNFNrWmj2nbq3Hd9GTw13NGVMdwQ9xtTfXJoeCoJJoEuPr-74nC3-NYsZCmNQngcYWwCFGp7nLnU0f66EqUYmk7GEC3cMfNOJc7shsE_pRKtOlzbhk0JJPzmJc_p2C1Mh6Xzcyd1SpJILLi2nVCdLmrAa9yOFqzFG5wxfm50fvxPOkDIl2dx4rthtGZJd33yKEirITVK7fNBNW8LGFd_N-fLbLoN_oPvlnPAqOTEd_OU642NBuIiDhKu36AySMJekP5S6gVXIGu3bBmnRCZSGoCOO6qLTKlcMZxGTuZN6AyFbg2sJ0U7vXE6_Vztr85PtgZ4RZt0PUm2sfBQvn0K2yRQrL_wNR8di-rxlGSYgZ99N0Q7o4aiJDdD3qX2oiGp7QMREdVtRGBoCDL3ElVCJlUKfGq2TFI_yqxhYmVKbI0LtOP6wrzuj7hyV4dNQ1BNCG9bHnS0CrLFBldAcvecW1yOyQYvszQLJPyTrrH_lyueDlJkEhjUqZ6dfQW_TXhrQcFdMJc_UwFznOH-9YM6ZweiWX_BsETWMAbjkLPiaqfmY0jpQLuZJW7vgc2X0bNSuDwa0e_ESFXF94-xAg1S1pBGVD78uR9ky6hJyK12udLVUDZ3ENMSNsppWtgGIAAOJtEKv2rMl4xm0FPU2ks2FJjGEvP1Ku3bzZ4P4_-c8oyEF82YwWoReYgUKJAJFqhdUvBs96zQ0DNgYgH5YMfd2EniBQFvq-BBc0kmysAo4I2DsFdDTzFKDXywteCtnMHl8Qzg0sxslb3d4KwkVShgdm1qbLC_QqWbFZLxaYiBBl-J2RhVJZMQJ5fQaDMQ6FHmdnkmq0E4NbCABKgl1cy13ZXN0LTIwjQg.m3u8
+#虎牙
+#EXTINF:-1 group-title="虎牙",盛世-安安
+https://9c89d538940fb343abf8856f8715a3eb.livehwc3.cn/hw.flv.huya.com/huyalive/1199578963347-1199578963347-5510819979982798848-2399158050150-10057-A-0-1.flv?fs=bgct&cdn_redirect_domain=5ca654642566fd1caee84eaf923fa70d.livehwc3.cn&ratio=500&sdkPcdn=1_1&sv=2311270311&sdk_sid=1701171537591&wsSecret=32926098277fab2b9ec07d6e00374357&wsTime=6565d151&policy=6&cdn_redirect=true&t=100&cdn_redirect_tag=1701171538&seqid=3167955144654&dMod=wcs-1&ctype=huya_live&u=1465081461379&ver=1
