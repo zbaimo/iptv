@@ -1,33 +1,4 @@
 #EXTM3U
-#CN
-#EXTINF:-1 group-title="央视频道",CCTV-1 (1080p)
-https://urls.wenlink.top/CN-CCTV1
-#EXTINF:-1 group-title="央视频道" ,CCTV-2 (1080p)
-https://urls.wenlink.top/CN-CCTV2
-#EXTINF:-1 group-title="央视频道",CCTV-3综艺 (1080p)
-http://183.196.25.171:808/hls/75/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-4 (1080p)
-https://urls.wenlink.top/CN-CCTV3
-#EXTINF:-1 group-title="央视频道",CCTV-5 (1080p)
-https://urls.wenlink.top/CN-CCTV5
-#EXTINF:-1 group-title="央视频道",CCTV-5+ (1080p)
-https://urls.wenlink.top/CN-CCTV5+
-#EXTINF:-1 group-title="央视频道",CCTV-7 (1080p)
-https://urls.wenlink.top/CN-CCTV7
-#EXTINF:-1 group-title="央视频道",CCTV-9 (1080p)
-https://urls.wenlink.top/CN-CCTV9
-#EXTINF:-1 group-title="央视频道",CCTV-10 (1080p)
-https://urls.wenlink.top/CN-CCTV10
-#EXTINF:-1 group-title="央视频道",CCTV-11戏曲 (1080p)
-https://urls.wenlink.top/CN-CCTV11
-#EXTINF:-1 group-title="央视频道",CCTV-12社会与法制 (1080p)
-https://urls.wenlink.top/CN-CCTV12
-#EXTINF:-1 group-title="央视频道",CCTV-13 (1080p)
-https://urls.wenlink.top/CN-CCTV13
-#EXTINF:-1 group-title="央视频道",CCTV-14 (1080p)
-https://urls.wenlink.top/CN-CCTV14
-#EXTINF:-1 group-title="央视频道",CCTV-17农业农村 (1080p)
-https://urls.wenlink.top/CN-CCTV17
 #STRIPCHAT
 #EXTINF:-1 group-title="STRIPCHAT",-Chu-chu
 https://urls.wenlink.top/STRIPCHAT--Chu-chu
